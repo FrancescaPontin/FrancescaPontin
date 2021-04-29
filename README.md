@@ -6,12 +6,12 @@ Quick links to
 - [A bit about me](https://francescapontin.github.io/about_me.html)
 - [research](https://francescapontin.github.io/research_projects.html)
 - [recent talks and presentation](https://francescapontin.github.io/talks_presentations.html)
-
-
-- :e-mail: F.L.Pontin@leeds.ac.uk
-- :computer: https://francescapontin.github.io
 - :books:Blog posts
             -  https://environment.leeds.ac.uk/geography-research-degrees/dir-record/student-alumni-profiles/1528/fran-pontin
             -  https://datacdt.org/kia-ora/
-- <img src ="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" heigh=42>Twitter: https://francescapontin.github.io
+Contact
+- :e-mail: F.L.Pontin@leeds.ac.uk
+- :computer: https://francescapontin.github.io
+
+- <img src ="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" heigh=4>Twitter: https://francescapontin.github.io
 
