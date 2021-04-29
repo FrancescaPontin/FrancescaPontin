@@ -13,5 +13,5 @@ Contact
 - :e-mail: F.L.Pontin@leeds.ac.uk
 - :computer: https://francescapontin.github.io
 
-- <img src ="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" heigh=4>Twitter: https://francescapontin.github.io
+- <img src ="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" heigh="42">Twitter: https://francescapontin.github.io
 
