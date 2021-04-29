@@ -3,11 +3,11 @@
 I am a postgraduate researcher at the Unviersity of Leeds.
 
 Quick links to:
-* teaching: 
+* teaching: [CDRC Into to Python](https://github.com/FrancescaPontin/CDRC_Python_day_1),[CDRC Into to Python 2](https://github.com/FrancescaPontin/CDRC_Python_day_2)
 * [A bit about me](https://francescapontin.github.io/about_me.html)
 * [research](https://francescapontin.github.io/research_projects.html)
 * [recent talks and presentation](https://francescapontin.github.io/talks_presentations.html)
-* :books:Blog posts
+* :books:Blog posts:
   * https://environment.leeds.ac.uk/geography-research-degrees/dir-record/student-alumni-profiles/1528/fran-pontin
   * https://datacdt.org/kia-ora/
 
