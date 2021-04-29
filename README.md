@@ -15,10 +15,8 @@ Quick links to:
 
 
 Contact:
-:e-mail: F.L.Pontin@leeds.ac.uk
-
-:computer: https://francescapontin.github.io
-
- <img src ="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25" style="vertical-align:bottom"> https://twitter.com/FrancescaPontin
+:e-mail: F.L.Pontin@leeds.ac.uk \
+:computer: https://francescapontin.github.io \
+ <img src ="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25" style="vertical-align:bottom"> https://twitter.com/FrancescaPontin\ 
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-7143-8718" href="https://orcid.org/0000-0002-7143-8718" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-7143-8718</a></div>
