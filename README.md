@@ -3,6 +3,7 @@
 <!--
 **FrancescaPontin/FrancescaPontin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![alt text](https://francescapontin.github.io/assets/images/10a2d19f-90ad-4662-8bf4-8488294344db-1-102-o-676x507.jpeg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
