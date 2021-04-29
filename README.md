@@ -1,19 +1,14 @@
 ### Hi there 👋
-![alt text](https://francescapontin.github.io/assets/images/10a2d19f-90ad-4662-8bf4-8488294344db-1-102-o-676x507.jpeg)
+![alt text](https://francescapontin.github.io/assets/images/6666ebe8-cf33-4a4c-9fcc-ad1f90d73ed8-1-105-c-676x675.jpg)
+
+I am a postgraduate researcher at the Unviersity of Leeds.
+Quick links to
+- teaching
+- research
+- recent talks and presentations
+
 
 <!--
 **FrancescaPontin/FrancescaPontin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
