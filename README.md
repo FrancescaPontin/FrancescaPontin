@@ -16,5 +16,5 @@ Contact:
 * :e-mail: F.L.Pontin@leeds.ac.uk
 * :computer: https://francescapontin.github.io
 
-* <img src ="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="30" style="vertical-align:bottom">Twitter: https://francescapontin.github.io
+* <img src ="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25" style="vertical-align:bottom">Twitter: https://francescapontin.github.io
 
