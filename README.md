@@ -3,12 +3,12 @@
 I am a postgraduate researcher at the Unviersity of Leeds.
 
 #### Quick links to:
-##### Teaching:
+##### :mortar_board:Teaching:
 If you are looking for my teaching materials you can find them in my GitHub repositories, or [on my website](https://francescapontin.github.io/teaching_materials.html)
 - [CDRC Day 1](https://github.com/FrancescaPontin/CDRC_Python_day_1)
 - [CDRC Day 2](https://github.com/FrancescaPontin/CDRC_Python_day_2)
 
-##### Research
+##### :mag:Research
 - Current research projects [shortcut](https://francescapontin.github.io/research_projects.html)
 - Recent presentations [shortcut](https://francescapontin.github.io/talks_presentations.html)
 - Publications: https://www.researchgate.net/profile/Fran-Pontin
