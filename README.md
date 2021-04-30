@@ -26,7 +26,7 @@ If you are looking for my teaching materials you can find them in my GitHub repo
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-7143-8718" href="https://orcid.org/0000-0002-7143-8718" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-7143-8718</a></div>
 
 \
-Latest Tweets:
+##### <img src ="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25" style="vertical-align:bottom"> Latest Tweets:
 <!-- TWITTER:START -->
 - [@FrancescaPontin: Now fully published: "Progress Towards Using Linked Population-Based Data For Geohealth Research: Comparisons Of Aotearoa New Zealand And The United Kingdom" - read it here:](https://twitter.com/FrancescaPontin/status/1387732399115620353)
 - [@hobbs_PA: It's been a long time since @LIDA_UK colleagues visited the @GeoHealthLab (see here: ) but our collab paper has now been accpeted! :-) "Linked population-based data for geohealth research: comparisons of Aotearoa New Zealand and the United Kingdom"](https://twitter.com/hobbs_PA/status/1385471902227963907)
