@@ -7,11 +7,8 @@ I am a postgraduate researcher at the Unviersity of Leeds.
 If you are looking for my teaching materials you can find them in my GitHub repositories, or [on my website](https://francescapontin.github.io/teaching_materials.html)
 - [CDRC Day 1](https://github.com/FrancescaPontin/CDRC_Python_day_1)
 - [CDRC Day 2](https://github.com/FrancescaPontin/CDRC_Python_day_2)
-* Teaching: 
-  * [CDRC Into to Python](https://github.com/FrancescaPontin/CDRC_Python_day_1)
-  * [CDRC Into to Python 2](https://github.com/FrancescaPontin/CDRC_Python_day_2)
-##### Research
 
+##### Research
 - Current research projects [shortcut](https://francescapontin.github.io/research_projects.html)
 - Recent presentations [shortcut](https://francescapontin.github.io/talks_presentations.html)
 - Publications: https://www.researchgate.net/profile/Fran-Pontin
@@ -28,7 +25,7 @@ If you are looking for my teaching materials you can find them in my GitHub repo
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-7143-8718" href="https://orcid.org/0000-0002-7143-8718" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-7143-8718</a></div>
 
-
+\
 Latest Tweets:
 <!-- TWITTER:START -->
 - [@FrancescaPontin: Now fully published: "Progress Towards Using Linked Population-Based Data For Geohealth Research: Comparisons Of Aotearoa New Zealand And The United Kingdom" - read it here:](https://twitter.com/FrancescaPontin/status/1387732399115620353)
