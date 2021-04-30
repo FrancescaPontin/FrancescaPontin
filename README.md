@@ -10,21 +10,15 @@ If you are looking for my teaching materials you can find them in my GitHub repo
 * Teaching: 
   * [CDRC Into to Python](https://github.com/FrancescaPontin/CDRC_Python_day_1)
   * [CDRC Into to Python 2](https://github.com/FrancescaPontin/CDRC_Python_day_2)
-* [A Bit About Me](https://francescapontin.github.io/about_me.html)
-* [Research](https://francescapontin.github.io/research_projects.html)
-* [Recent Talks and Presentation](https://francescapontin.github.io/talks_presentations.html)
-* :books:Blog Posts:
-  * https://environment.leeds.ac.uk/geography-research-degrees/dir-record/student-alumni-profiles/1528/fran-pontin
-  * https://datacdt.org/kia-ora/
-
-
-
-
-
-### Research
+##### Research
 
 - Current research projects [shortcut](https://francescapontin.github.io/research_projects.html)
 - Recent presentations [shortcut](https://francescapontin.github.io/talks_presentations.html)
+- Publications: https://www.researchgate.net/profile/Fran-Pontin
+
+##### :books:Blog Posts:
+  * https://environment.leeds.ac.uk/geography-research-degrees/dir-record/student-alumni-profiles/1528/fran-pontin
+  * https://datacdt.org/kia-ora/
 
 
 #### Contact:
