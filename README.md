@@ -9,9 +9,9 @@ If you are looking for my teaching materials you can find them in my GitHub repo
 - [CDRC Day 2](https://github.com/FrancescaPontin/CDRC_Python_day_2)
 
 ##### :mag:Research
-- Current research projects [shortcut](https://francescapontin.github.io/research_projects.html)
-- Recent presentations [shortcut](https://francescapontin.github.io/talks_presentations.html)
-- Publications: https://www.researchgate.net/profile/Fran-Pontin
+- [Current research projects](https://francescapontin.github.io/research_projects.html)
+- [Recent presentations](https://francescapontin.github.io/talks_presentations.html)
+- [Publications](https://www.researchgate.net/profile/Fran-Pontin)
 
 ##### :books:Blog Posts:
   * https://environment.leeds.ac.uk/geography-research-degrees/dir-record/student-alumni-profiles/1528/fran-pontin
