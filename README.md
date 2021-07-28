@@ -28,7 +28,7 @@ If you are looking for my teaching materials you can find them in my GitHub repo
 
 ##### <img src ="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25" style="vertical-align:bottom"> Latest Tweets:
 <!-- TWITTER:START -->
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=FrancescaPontin&layout=wide)](https://github.com/gazf/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=FrancescaPontin&layout=normal&show_retweet=off](https://github.com/gazf/github-readme-twitter)
 <!-- TWITTER:END -->
 
 
