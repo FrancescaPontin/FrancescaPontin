@@ -14,6 +14,7 @@ If you are looking for my teaching materials you can find them in my GitHub repo
 - [Publications](https://www.researchgate.net/profile/Fran-Pontin)
 
 ##### :books:Blog Posts:
+  * https://www.cdrc.ac.uk/smartphone-apps-and-activity/
   * https://environment.leeds.ac.uk/geography-research-degrees/dir-record/student-alumni-profiles/1528/fran-pontin
   * https://datacdt.org/kia-ora/
 
