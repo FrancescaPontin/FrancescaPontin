@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!----![alt text](https://francescapontin.github.io/assets/images/6666ebe8-cf33-4a4c-9fcc-ad1f90d73ed8-1-105-c-676x675.jpg)-->
-I am a postgraduate researcher at the Unviersity of Leeds.
+Research Data Scientist for the CDRC (School of Geography) at the Unviersity of Leeds.
 
 #### Quick links to:
 ##### :mortar_board:Teaching:
